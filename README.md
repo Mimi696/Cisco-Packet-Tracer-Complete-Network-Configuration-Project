@@ -1,0 +1,2 @@
+# Cisco-Packet-Tracer-Complete-Network-Configuration-Project
+This project showcases the step-by-step network setup and configuration using Cisco Packet Tracer, covering:  Device setup (Switches, PCs, Printers, Server, Wireless Devices)  IP configuration (Static and DHCP)  Wireless network creation (SSID &amp; WPA2-PSK)  Network connectivity verification  Screenshots for evidence and assessment validation
